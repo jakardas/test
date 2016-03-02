@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Dawid
-=======
-Micha³
->>>>>>> 2a97faacc3e69fac926be350d32c8a6c74e19801
